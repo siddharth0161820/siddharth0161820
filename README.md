@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>
 <h3 align="center">Immediate Joiner | Java Backend Developer | Spring Boot | REST APIs | MySQL</h3>
 
@@ -16,16 +15,16 @@
 
 - 🎓 **Backend Developer** focused on clean architecture, Java, Spring Boot, and real-world REST APIs.
 - 🧠 Currently sharpening: **OOP**, **Spring Core**, **Spring Boot**, **MySQL**, and **hands-on backend projects**.
-- 🔄 **Actively working on** building scalable REST services, exception handling, Swagger docs.
-- 💼 **Open to backend roles in product-based companies** | Immediate Joiner
+- 🔄 Actively building scalable REST services, exception handling, Swagger docs.
+- 💼 Open to backend roles in product-based companies | **Immediate Joiner**
 
 ---
 
 ## 🔗 Connect with Me
 
-- 📧 Email: **siddharth0161820@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/siddharthkumar16/)
-- 💻 [GitHub Profile](https://github.com/siddharth0161820)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharthkumar16/)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:siddharth0161820@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/siddharth0161820)
 
 ---
 
@@ -66,4 +65,6 @@ _“It's just myself talking to myself about myself...”_
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth0161820&show_icons=true&locale=en&layout=compact" alt="siddharth0161820" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth0161820&show_icons=true&locale=en&layout=compact" alt="siddharth0161820" />
+</p>
