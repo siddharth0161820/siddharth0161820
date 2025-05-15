@@ -46,6 +46,8 @@
 
 A production-ready REST API built with Java and Spring Boot to manage cloud vendors.
 
+**Technology Stack:** Java, Spring Boot, Spring Security (JWT), JPA/Hibernate, MySQL, Postman, Maven
+
 - Implements **CRUD operations** with **layered architecture** (Controller, Service, Repository).
 - Uses **JPA/Hibernate** to interact with MySQL for persistent data storage.
 - Applies **DTOs** with validation annotations to ensure secure and accurate data exchange.
@@ -54,16 +56,33 @@ A production-ready REST API built with Java and Spring Boot to manage cloud vend
 - Thoroughly tested using **Postman** to validate API endpoints and reliability.
 - Designed for **scalability, security, and clean code maintenance** in backend development.
 
+---
+
 ### 🔹 [Java Multithreading Interview Prep](https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep)
 
-A practical project demonstrating core Java multithreading concepts with hands-on examples frequently asked in interviews.
+This project demonstrates core multithreading concepts in Java using practical, hands-on examples.
 
-- Thread creation using `Thread`, `Runnable`, and lambda expressions.
-- Synchronization techniques with methods and blocks to ensure thread safety.
-- Examples and solutions for deadlocks.
-- Implementation of the Producer-Consumer problem using `wait()` and `notify()`.
-- Thread management with `ExecutorService` and thread pools.
-- Usage of the `volatile` keyword for memory visibility.
+**Technology Stack:** Java SE, Core Java Multithreading APIs (Thread, Runnable, ExecutorService), Synchronization, Concurrency Utilities
+
+- Thread creation using Thread, Runnable, and lambda expressions.
+- Synchronization with methods and blocks.
+- Deadlock scenarios and solutions.
+- Producer-Consumer problem using wait() and notify().
+- Thread management using ExecutorService.
+- Use of the volatile keyword for memory visibility.
+
+---
+
+### 🔹 [Car Rental System Project Using Java OOPS Concept](https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT)
+
+A console-based Car Rental System project demonstrating Object-Oriented Programming principles like inheritance, polymorphism, abstraction, and encapsulation.
+
+**Technology Stack:** Core Java, OOP Concepts, Java Collections
+
+- Implements a rental system with classes for Cars, Customers, and Rental transactions.
+- Demonstrates inheritance and polymorphism for car types.
+- Encapsulation for data security and abstraction for user interaction.
+- Exception handling and input validation.
 
 ---
 
@@ -71,7 +90,7 @@ A practical project demonstrating core Java multithreading concepts with hands-o
 
 Constantly sharpening backend skills through:
 
-- DSA and interview preparation with focus on HashMaps, thread-safe structures, multithreading, and SQL.
+- DSA and interview preparation with focus on HashMaps, thread-safe structures, multithreading, SQL.
 - Building real-world projects to strengthen understanding of Spring Boot and RESTful design patterns.
 
 🔗 [LeetCode Profile](https://leetcode.com/siddharth0161820)  
