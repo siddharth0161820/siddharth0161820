@@ -40,7 +40,7 @@
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 ### 🔹 [Cloud Vendor REST API](https://github.com/siddharth0161820/cloud-vendor-rest-api)  
 
@@ -54,13 +54,24 @@ A production-ready REST API built with Java and Spring Boot to manage cloud vend
 - Thoroughly tested using **Postman** to validate API endpoints and reliability.
 - Designed for **scalability, security, and clean code maintenance** in backend development.
 
+### 🔹 [Java Multithreading Interview Prep](https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep)
+
+A practical project demonstrating core Java multithreading concepts with hands-on examples frequently asked in interviews.
+
+- Thread creation using `Thread`, `Runnable`, and lambda expressions.
+- Synchronization techniques with methods and blocks to ensure thread safety.
+- Examples and solutions for deadlocks.
+- Implementation of the Producer-Consumer problem using `wait()` and `notify()`.
+- Thread management with `ExecutorService` and thread pools.
+- Usage of the `volatile` keyword for memory visibility.
+
 ---
 
 ## 📘 Backend Learning
 
 Constantly sharpening backend skills through:
 
-- DSA and interview preparation with focus on HashMaps, thread-safe structures, multithreading, SQL, and system design.
+- DSA and interview preparation with focus on HashMaps, thread-safe structures, multithreading, and SQL.
 - Building real-world projects to strengthen understanding of Spring Boot and RESTful design patterns.
 
 🔗 [LeetCode Profile](https://leetcode.com/siddharth0161820)  
