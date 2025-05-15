@@ -13,10 +13,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Backend Developer focused on clean architecture, Java, Spring Boot, and real-world REST APIs.
-- 🧠 Hands-on experience building scalable, secure REST services with layered architecture, DTOs, validation, exception handling, and JWT-based Spring Security.
-- 💼 Immediate Joiner ready to contribute to product-based companies, service-based firms, or startups.
-- 🔄 Passionate about writing maintainable code and continuously learning backend development best practices.
+- 🎓 Backend Developer focused on clean architecture, Java, Spring Boot, and building real-world REST APIs.  
+- 🧠 Hands-on experience in creating scalable, secure REST services using layered architecture, DTOs, validation, exception handling, and JWT-based Spring Security.  
+- 💼 Immediate Joiner eager to contribute effectively to product-based companies, service firms, or startups.  
+- 🔄 Passionate about writing maintainable code, learning best backend development practices, and solving real-world problems.  
+- 🎯 Seeking opportunities to grow as a backend engineer and work on impactful projects.
 
 ---
 
@@ -48,12 +49,12 @@ A production-ready REST API built with Java and Spring Boot to manage cloud vend
 
 **Technology Stack:** Java, Spring Boot, Spring Security (JWT), JPA/Hibernate, MySQL, Postman, Maven
 
-- Implements **CRUD operations** with **layered architecture** (Controller, Service, Repository).
-- Uses **JPA/Hibernate** to interact with MySQL for persistent data storage.
-- Applies **DTOs** with validation annotations to ensure secure and accurate data exchange.
-- Features **global and custom exception handling** for consistent, robust error responses.
-- Integrated **Spring Security with JWT** for stateless, token-based authentication and authorization.
-- Thoroughly tested using **Postman** to validate API endpoints and reliability.
+- Implements **CRUD operations** with **layered architecture** (Controller, Service, Repository).  
+- Uses **JPA/Hibernate** to interact with MySQL for persistent data storage.  
+- Applies **DTOs** with validation annotations to ensure secure and accurate data exchange.  
+- Features **global and custom exception handling** for consistent, robust error responses.  
+- Integrated **Spring Security with JWT** for stateless, token-based authentication and authorization.  
+- Thoroughly tested using **Postman** to validate API endpoints and reliability.  
 - Designed for **scalability, security, and clean code maintenance** in backend development.
 
 ---
@@ -64,11 +65,11 @@ This project demonstrates core multithreading concepts in Java using practical, 
 
 **Technology Stack:** Java SE, Core Java Multithreading APIs (Thread, Runnable, ExecutorService), Synchronization, Concurrency Utilities
 
-- Thread creation using Thread, Runnable, and lambda expressions.
-- Synchronization with methods and blocks.
-- Deadlock scenarios and solutions.
-- Producer-Consumer problem using wait() and notify().
-- Thread management using ExecutorService.
+- Thread creation using Thread, Runnable, and lambda expressions.  
+- Synchronization with methods and blocks.  
+- Deadlock scenarios and solutions.  
+- Producer-Consumer problem using wait() and notify().  
+- Thread management using ExecutorService.  
 - Use of the volatile keyword for memory visibility.
 
 ---
@@ -79,26 +80,27 @@ A console-based Car Rental System project demonstrating Object-Oriented Programm
 
 **Technology Stack:** Core Java, OOP Concepts, Java Collections
 
-- Implements a rental system with classes for Cars, Customers, and Rental transactions.
-- Demonstrates inheritance and polymorphism for car types.
-- Encapsulation for data security and abstraction for user interaction.
+- Implements a rental system with classes for Cars, Customers, and Rental transactions.  
+- Demonstrates inheritance and polymorphism for car types.  
+- Encapsulation for data security and abstraction for user interaction.  
 - Exception handling and input validation.
 
 ---
 
 ## 📘 Backend Learning
 
-Constantly sharpening backend skills through:
+Continuously improving backend skills with a focus on interview readiness and practical development:  
 
-- Focused interview preparation with Java backend concepts and coding problems including:
-  - Java 8 features like Streams and Lambdas
-  - Core data structures (Arrays, Lists, Maps, Sets)
-  - String and array manipulation problems
-  - Data filtering and grouping using Streams
-  - Multithreading basics and thread-safe collections
-  - Building secure, scalable REST APIs using Spring Boot and JWT
-- Building real-world projects to strengthen understanding of Spring Boot and RESTful design patterns.
+- Deep dive into Java 8 features such as Streams and Lambdas.  
+- Mastery of core data structures: Arrays, Lists, Maps, and Sets.  
+- Problem-solving with string and array manipulation related to backend challenges.  
+- Data filtering, grouping, and transformation using Streams API.  
+- Fundamentals of multithreading and thread-safe data structures and collections.  
+- Designing and implementing secure, scalable REST APIs with Spring Boot and JWT authentication.  
+- Developing real-world projects to reinforce Spring Boot and RESTful architecture best practices.
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or explore my projects.
+I’m open to exciting opportunities, collaborations, and discussions related to backend development.  
+Feel free to connect with me!
+
