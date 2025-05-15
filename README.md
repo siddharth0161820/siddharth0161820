@@ -13,10 +13,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Backend Developer with a deep focus on clean architecture, Java, Spring Boot, and real-world REST APIs.
-- 🧠 Currently mastering OOP, Spring Core, Spring Boot, MySQL, and Spring Security through hands-on backend projects.
-- 🔄 Building scalable, secure REST services with comprehensive exception handling and Spring Security integration.
-- 💼 Immediate Joiner, open to roles in product-based companies, service-based companies, and startups, with the flexibility to work in challenging and growth-oriented environments.
+- 🎓 Backend Developer focused on clean architecture, Java, Spring Boot, and real-world REST APIs.
+- 🧠 Hands-on experience building scalable, secure REST services with layered architecture, DTOs, validation, exception handling, and JWT-based Spring Security.
+- 💼 Immediate Joiner ready to contribute to product-based companies, service-based firms, or startups.
+- 🔄 Passionate about writing maintainable code and continuously learning backend development best practices.
 
 ---
 
@@ -40,25 +40,31 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
-#### 🔹 [Cloud Vendor REST API](https://github.com/siddharth0161820/cloud-vendor-rest-api)  
-A Spring Boot-based REST API that supports CRUD operations for managing cloud vendors. Implements layered architecture, JPA, and Spring Security for a secure and scalable backend.
+### 🔹 [Cloud Vendor REST API](https://github.com/siddharth0161820/cloud-vendor-rest-api)  
 
-#### 🔹 [Car Rental System – Java OOP](https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT)  
-A console-based Java application demonstrating OOP principles such as inheritance, abstraction, and encapsulation in a real-world car rental simulation. Designed with scalable code structure and easy to extend.
+A production-ready REST API built with Java and Spring Boot to manage cloud vendors.
+
+- Implements **CRUD operations** with **layered architecture** (Controller, Service, Repository).
+- Uses **JPA/Hibernate** to interact with MySQL for persistent data storage.
+- Applies **DTOs** with validation annotations to ensure secure and accurate data exchange.
+- Features **global and custom exception handling** for consistent, robust error responses.
+- Integrated **Spring Security with JWT** for stateless, token-based authentication and authorization.
+- Thoroughly tested using **Postman** to validate API endpoints and reliability.
+- Designed for **scalability, security, and clean code maintenance** in backend development.
 
 ---
 
-## 📘 Backend LeetCode Practice
+## 📘 Backend Learning
 
-Practicing DSA with backend relevance using Java, focusing on interview patterns like:
+Constantly sharpening backend skills through:
 
-- RESTful API design-based problems  
-- HashMap internal working and collision handling  
-- Thread-safe data structures and multithreading concepts  
-- SQL joins, queries, and optimization  
-- System design and caching problems  
+- DSA and interview preparation with focus on HashMaps, thread-safe structures, multithreading, SQL, and system design.
+- Building real-world projects to strengthen understanding of Spring Boot and RESTful design patterns.
 
 🔗 [LeetCode Profile](https://leetcode.com/siddharth0161820)  
-💡 Goal: To master backend-friendly data structures and patterns for interviews across all types of companies.
+
+---
+
+Thanks for visiting my profile! Feel free to connect or explore my projects.
