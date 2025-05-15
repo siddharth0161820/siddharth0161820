@@ -103,4 +103,3 @@ Continuously improving backend skills with a focus on interview readiness and pr
 
 I’m open to exciting opportunities, collaborations, and discussions related to backend development.  
 Feel free to connect with me!
-
