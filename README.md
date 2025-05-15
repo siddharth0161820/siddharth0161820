@@ -90,10 +90,14 @@ A console-based Car Rental System project demonstrating Object-Oriented Programm
 
 Constantly sharpening backend skills through:
 
-- DSA and interview preparation with focus on HashMaps, thread-safe structures, multithreading, SQL.
+- Focused interview preparation with Java backend concepts and coding problems including:
+  - Java 8 features like Streams and Lambdas
+  - Core data structures (Arrays, Lists, Maps, Sets)
+  - String and array manipulation problems
+  - Data filtering and grouping using Streams
+  - Multithreading basics and thread-safe collections
+  - Building secure, scalable REST APIs using Spring Boot and JWT
 - Building real-world projects to strengthen understanding of Spring Boot and RESTful design patterns.
-
-🔗 [LeetCode Profile](https://leetcode.com/siddharth0161820)  
 
 ---
 
