@@ -13,10 +13,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Backend Developer** with a deep focus on clean architecture, **Java**, **Spring Boot**, and real-world **REST APIs**.
-- 🧠 Currently mastering **OOP**, **Spring Core**, **Spring Boot**, **MySQL**, and **Spring Security** through hands-on backend projects.
-- 🔄 Building scalable, secure REST services with comprehensive **exception handling** and **Spring Security** integration.
-- 💼 **Immediate Joiner**, open to roles in product-based companies, service-based companies, and startups, with the flexibility to work in **challenging and growth-oriented environments**.
+- 🎓 Backend Developer with a deep focus on clean architecture, Java, Spring Boot, and real-world REST APIs.
+- 🧠 Currently mastering OOP, Spring Core, Spring Boot, MySQL, and Spring Security through hands-on backend projects.
+- 🔄 Building scalable, secure REST services with comprehensive exception handling and Spring Security integration.
+- 💼 Immediate Joiner, open to roles in product-based companies, service-based companies, and startups, with the flexibility to work in challenging and growth-oriented environments.
 
 ---
 
@@ -43,24 +43,22 @@
 ## 📂 Featured Projects
 
 #### 🔹 [Cloud Vendor REST API](https://github.com/siddharth0161820/cloud-vendor-rest-api)  
-A **Spring Boot-based REST API** that supports **CRUD operations** for managing cloud vendors. Implements **layered architecture**, **JPA**, and **Spring Security** for a secure and scalable backend.
+A Spring Boot-based REST API that supports CRUD operations for managing cloud vendors. Implements layered architecture, JPA, and Spring Security for a secure and scalable backend.
 
 #### 🔹 [Car Rental System – Java OOP](https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT)  
-A **console-based Java application** demonstrating **OOP principles** such as **inheritance**, **abstraction**, and **encapsulation** in a real-world car rental simulation. Designed with scalable code structure and easy to extend.
+A console-based Java application demonstrating OOP principles such as inheritance, abstraction, and encapsulation in a real-world car rental simulation. Designed with scalable code structure and easy to extend.
 
 ---
 
 ## 📘 Backend LeetCode Practice
 
-Practicing **DSA with backend relevance** using Java, focusing on interview patterns like:
+Practicing DSA with backend relevance using Java, focusing on interview patterns like:
 
-- RESTful API design-based problems
-- HashMap internal working and collision handling
-- Thread-safe data structures and multithreading concepts
-- SQL joins, queries, and optimization
-- System design and caching problems
+- RESTful API design-based problems  
+- HashMap internal working and collision handling  
+- Thread-safe data structures and multithreading concepts  
+- SQL joins, queries, and optimization  
+- System design and caching problems  
 
 🔗 [LeetCode Profile](https://leetcode.com/siddharth0161820)  
-💡 **Goal**: To master backend-friendly data structures and patterns for product-based interviews.
-
----
+💡 Goal: To master backend-friendly data structures and patterns for interviews across all types of companies.
