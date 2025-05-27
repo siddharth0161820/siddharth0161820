@@ -25,8 +25,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharthkumar16/)  
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:siddharth0161820@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/siddharth0161820)  
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/siddharth0161820/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/siddharth0161820)
 
 ---
 
@@ -90,15 +89,22 @@ A console-based Car Rental System project demonstrating Object-Oriented Programm
 
 ## 📘 Backend Learning
 
-Continuously improving backend skills with a focus on interview readiness and practical development:  
+Focused on strengthening core backend development skills and building production-grade REST APIs using Java and Spring Boot, including:
 
-- Deep dive into Java 8 features such as Streams and Lambdas.  
-- Mastery of core data structures: Arrays, Lists, Maps, and Sets.  
-- Problem-solving with string and array manipulation related to backend challenges.  
-- Data filtering, grouping, and transformation using Streams API.  
-- Fundamentals of multithreading and thread-safe data structures and collections.  
-- Designing and implementing secure, scalable REST APIs with Spring Boot and JWT authentication.  
-- Developing real-world projects to reinforce Spring Boot and RESTful architecture best practices.
+- Java 8 features (Streams, Lambdas)  
+- Core data structures (Arrays, Lists, Maps, Sets)  
+- Multithreading fundamentals and thread-safe collections  
+- Secure REST API design with Spring Boot and JWT  
+- Applying layered architecture, DTOs, validation, and exception handling
+
+---
+
+## 💻 DSA & Backend Problem Solving
+
+Actively solving backend and data structures & algorithms problems on LeetCode to sharpen coding skills and prepare for interviews:
+
+- Focused on arrays, strings, linked lists, trees, graphs, hashing, and dynamic programming problems relevant to backend roles.  
+- [https://leetcode.com/siddharth0161820/](https://leetcode.com/siddharth0161820/)
 
 ---
 
