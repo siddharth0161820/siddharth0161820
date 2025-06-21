@@ -50,6 +50,8 @@
 
 🔗 Base URL:  
 https://cloud-vendor-rest-api-production.up.railway.app/vendor
+🔗 Base URL:
+https://cloud-vendor-rest-api-production.up.railway.app
 
 📷 Screenshot Proof:  
 ![Deployment Screenshot](https://github.com/siddharth0161820/cloud-vendor-rest-api/blob/master/Security/deployment-proof.png)
