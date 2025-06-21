@@ -15,7 +15,7 @@
 
 - 🎓 Backend Developer focused on clean architecture, Java, Spring Boot, and building real-world REST APIs.  
 - 🧠 Hands-on experience in scalable, secure REST services with layered architecture, DTOs, validation, exception handling, and JWT-based Spring Security.  
-- 💼 Immediate Joiner eager to contribute to product-based companies or startups.  
+- 💼 Immediate Joiner eager to contribute to a **company where I can learn, grow, and make meaningful impact**.  
 - 🔄 Passionate about writing maintainable code and solving real-world problems.  
 - 🎯 Seeking impactful Java backend engineering roles.
 
@@ -46,12 +46,12 @@
 ### 🔹 Cloud Vendor REST API (Spring Boot + JWT + Railway)
 
 ✅ Full Java backend REST API using layered architecture and JWT security.  
-✅ Live Public Deployment on Railway ⬇️
+✅ Live Public Deployment on Railway ⬇️  
 
 🔗 Base URL:  
-https://cloud-vendor-rest-api-production.up.railway.app/vendor
-🔗 Base URL:
-https://cloud-vendor-rest-api-production.up.railway.app
+https://cloud-vendor-rest-api-production.up.railway.app/vendor  
+🔗 Root URL:  
+https://cloud-vendor-rest-api-production.up.railway.app  
 
 📷 Screenshot Proof:  
 ![Deployment Screenshot](https://github.com/siddharth0161820/cloud-vendor-rest-api/blob/master/Security/deployment-proof.png)
@@ -61,7 +61,7 @@ https://cloud-vendor-rest-api-production.up.railway.app
 📁 Project Structure:
 
 cloud-vendor-rest-api/
-└── Security/
+├── Security/
 ├── ControllerLayer/ # REST controllers
 ├── ServiceLayer/ # Business logic
 ├── RepositoryLayer/ # JPA repositories
@@ -79,15 +79,15 @@ bash
 Copy
 Edit
 
-📮 Endpoints:
+📮 Key Endpoints:
 
-| Method | Endpoint                       | Description              |
-|--------|--------------------------------|--------------------------|
-| GET    | /vendor                        | Get all vendors          |
-| GET    | /vendor/getSingleVendors/{id}  | Get vendor by ID         |
-| POST   | /vendor/addVendors             | Add new vendor           |
-| PUT    | /vendor/updateVendors          | Update vendor            |
-| DELETE | /vendor/deleteVendors/{id}     | Delete vendor            |
+| Method | Endpoint                        | Description              |
+|--------|----------------------------------|--------------------------|
+| GET    | /vendor                          | Get all vendors          |
+| GET    | /vendor/getSingleVendors/{id}    | Get vendor by ID         |
+| POST   | /vendor/addVendors               | Add new vendor           |
+| PUT    | /vendor/updateVendors            | Update vendor            |
+| DELETE | /vendor/deleteVendors/{id}       | Delete vendor            |
 
 📝 Sample POST body:
 
@@ -99,36 +99,32 @@ Edit
 }
 ✅ Tested via Postman
 ✅ JWT-based Auth for /auth/login + /auth/register
-✅ Unit tests written using JUnit + Mockito
+✅ DTO + Validation with error message
+✅ Global Exception Handling
+✅ Unit Testing with JUnit + Mockito
 
 🔹 Java Multithreading Interview Prep
 🧠 Core multithreading examples for interview prep.
 
 Tech Stack: Java SE, Thread, Runnable, ExecutorService, wait/notify
 
-Thread creation using multiple approaches
-
-Deadlock resolution
-
-Producer-Consumer
-
-ExecutorService & Pools
-
-Volatile & Memory consistency
+✔️ Thread creation using multiple approaches
+✔️ Deadlock resolution
+✔️ Producer-Consumer
+✔️ ExecutorService & Thread Pools
+✔️ Volatile & Memory consistency
 
 🔗 Repo:
 https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep
 
 🔹 Car Rental System (OOPS + Java Collections)
-🚗 A console-based project showing OOP principles in action.
+🚗 A console-based mini project demonstrating core Java OOPS concepts.
 
 Stack: Core Java, OOPS, Collections
 
-Classes for Cars, Customers, Rentals
-
-Inheritance, Encapsulation, Polymorphism
-
-Exception handling & abstraction
+✔️ Classes for Cars, Customers, Rentals
+✔️ Inheritance, Encapsulation, Polymorphism
+✔️ Exception handling & abstraction
 
 🔗 Repo:
 https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT
@@ -153,7 +149,7 @@ MySQL + H2 DB
 Git, Maven, Postman
 
 💻 DSA & Backend Problem Solving
-Solving LeetCode & backend-focused questions to stay sharp.
+Solving LeetCode + backend-focused interview problems
 
 📍 Focus Areas:
 
@@ -168,17 +164,3 @@ https://leetcode.com/siddharth0161820/
 
 💼 I’m open to backend developer roles, collaborations & internships.
 📬 Feel free to reach out anytime!
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd also like the README.md for the cloud-vendor-rest-api project to be merged into this GitHub profile, or kept separate as it is now.
-
-
-
-
-
-
-
-
