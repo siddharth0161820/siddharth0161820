@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>
-<h3 align="center">Immediate Joiner | Java Backend Developer | Spring Boot | REST APIs | MySQL | Spring Security</h3>
+<h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>  
+<h3 align="center">Immediate Joiner | Java Backend Developer | Spring Boot | REST APIs | MySQL | Spring Security | JWT | JUnit | Mockito</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
@@ -14,10 +14,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Backend Developer focused on clean architecture, Java, Spring Boot, and building real-world REST APIs.  
-- 🧠 Hands-on experience in creating scalable, secure REST services using layered architecture, DTOs, validation, exception handling, and JWT-based Spring Security.  
-- 💼 Immediate Joiner eager to contribute effectively to product-based companies, service firms, or startups.  
-- 🔄 Passionate about writing maintainable code, learning best backend development practices, and solving real-world problems.  
-- 🎯 Seeking opportunities to grow as a backend engineer and work on impactful projects.
+- 🧠 Hands-on experience in scalable, secure REST services with layered architecture, DTOs, validation, exception handling, and JWT-based Spring Security.  
+- 💼 Immediate Joiner eager to contribute to product-based companies or startups.  
+- 🔄 Passionate about writing maintainable code and solving real-world problems.  
+- 🎯 Seeking impactful Java backend engineering roles.
 
 ---
 
@@ -32,81 +32,151 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [Cloud Vendor REST API](https://github.com/siddharth0161820/cloud-vendor-rest-api)  
+### 🔹 Cloud Vendor REST API (Spring Boot + JWT + Railway)
 
-A production-ready REST API built with Java and Spring Boot to manage cloud vendors.
+✅ Full Java backend REST API using layered architecture and JWT security.  
+✅ Live Public Deployment on Railway ⬇️
 
-**Technology Stack:** Java, Spring Boot, Spring Security (JWT), JPA/Hibernate, MySQL, Postman, Maven
+🔗 Base URL:  
+https://cloud-vendor-rest-api-production.up.railway.app/vendor
 
-- Implements **CRUD operations** with **layered architecture** (Controller, Service, Repository).  
-- Uses **JPA/Hibernate** to interact with MySQL for persistent data storage.  
-- Applies **DTOs** with validation annotations to ensure secure and accurate data exchange.  
-- Features **global and custom exception handling** for consistent, robust error responses.  
-- Integrated **Spring Security with JWT** for stateless, token-based authentication and authorization.  
-- Thoroughly tested using **Postman** to validate API endpoints and reliability.  
-- Designed for **scalability, security, and clean code maintenance** in backend development.
+📷 Screenshot Proof:  
+![Deployment Screenshot](https://github.com/siddharth0161820/cloud-vendor-rest-api/blob/master/Security/deployment-proof.png)
 
----
+🛠️ Stack: Java 17, Spring Boot 3.2, Spring Security, JWT, JPA, H2 DB, DTO, Validation, Global Exception Handling, JUnit 5, Mockito
 
-### 🔹 [Java Multithreading Interview Prep](https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep)
+📁 Project Structure:
 
-This project demonstrates core multithreading concepts in Java using practical, hands-on examples.
+cloud-vendor-rest-api/
+└── Security/
+├── ControllerLayer/ # REST controllers
+├── ServiceLayer/ # Business logic
+├── RepositoryLayer/ # JPA repositories
+├── Entity/ # CloudVendor entity
+├── Jwt/ # JWT filter and util
+├── UserDTO/ # DTO + Validation
+├── SecurityConfig/ # Spring Security config
+├── CutomException/ # Custom response wrapper
+├── GlobalExceptionHandling/ # @ControllerAdvice handler
+├── ServiceLayerImplementationTest.java # Unit Tests
+├── application.properties # Port + DB config
+└── deployment-proof.png # ✅ Screenshot of deployment
 
-**Technology Stack:** Java SE, Core Java Multithreading APIs (Thread, Runnable, ExecutorService), Synchronization, Concurrency Utilities
+bash
+Copy
+Edit
 
-- Thread creation using Thread, Runnable, and lambda expressions.  
-- Synchronization with methods and blocks.  
-- Deadlock scenarios and solutions.  
-- Producer-Consumer problem using wait() and notify().  
-- Thread management using ExecutorService.  
-- Use of the volatile keyword for memory visibility.
+📮 Endpoints:
 
----
+| Method | Endpoint                       | Description              |
+|--------|--------------------------------|--------------------------|
+| GET    | /vendor                        | Get all vendors          |
+| GET    | /vendor/getSingleVendors/{id}  | Get vendor by ID         |
+| POST   | /vendor/addVendors             | Add new vendor           |
+| PUT    | /vendor/updateVendors          | Update vendor            |
+| DELETE | /vendor/deleteVendors/{id}     | Delete vendor            |
 
-### 🔹 [Car Rental System Project Using Java OOPS Concept](https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT)
+📝 Sample POST body:
 
-A console-based Car Rental System project demonstrating Object-Oriented Programming principles like inheritance, polymorphism, abstraction, and encapsulation.
+```json
+{
+  "name": "Radha Rani",
+  "username": "radha@example.com",
+  "password": "radha123"
+}
+✅ Tested via Postman
+✅ JWT-based Auth for /auth/login + /auth/register
+✅ Unit tests written using JUnit + Mockito
 
-**Technology Stack:** Core Java, OOP Concepts, Java Collections
+🔹 Java Multithreading Interview Prep
+🧠 Core multithreading examples for interview prep.
 
-- Implements a rental system with classes for Cars, Customers, and Rental transactions.  
-- Demonstrates inheritance and polymorphism for car types.  
-- Encapsulation for data security and abstraction for user interaction.  
-- Exception handling and input validation.
+Tech Stack: Java SE, Thread, Runnable, ExecutorService, wait/notify
 
----
+Thread creation using multiple approaches
 
-## 📘 Backend Learning
+Deadlock resolution
 
-Focused on strengthening core backend development skills and building production-grade REST APIs using Java and Spring Boot, including:
+Producer-Consumer
 
-- Java 8 features (Streams, Lambdas)  
-- Core data structures (Arrays, Lists, Maps, Sets)  
-- Multithreading fundamentals and thread-safe collections  
-- Secure REST API design with Spring Boot and JWT  
-- Applying layered architecture, DTOs, validation, and exception handling
+ExecutorService & Pools
 
----
+Volatile & Memory consistency
 
-## 💻 DSA & Backend Problem Solving
+🔗 Repo:
+https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep
 
-Actively solving backend and data structures & algorithms problems on LeetCode to sharpen coding skills and prepare for interviews:
+🔹 Car Rental System (OOPS + Java Collections)
+🚗 A console-based project showing OOP principles in action.
 
-- Focused on arrays, strings, linked lists, trees, graphs, hashing, and dynamic programming problems relevant to backend roles.  
-- [https://leetcode.com/siddharth0161820/](https://leetcode.com/siddharth0161820/)
+Stack: Core Java, OOPS, Collections
 
----
+Classes for Cars, Customers, Rentals
 
-I’m open to exciting opportunities, collaborations, and discussions related to backend development.  
-Feel free to connect with me!
+Inheritance, Encapsulation, Polymorphism
+
+Exception handling & abstraction
+
+🔗 Repo:
+https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT
+
+📘 Backend Learning
+Core Java (Exceptions, Collections, Multithreading)
+
+Java 8 (Streams, Lambdas)
+
+Spring Boot with layered architecture
+
+REST API design + JWT security
+
+DTOs + Bean Validation
+
+Exception Handling (Global + Custom)
+
+JUnit + Mockito testing
+
+MySQL + H2 DB
+
+Git, Maven, Postman
+
+💻 DSA & Backend Problem Solving
+Solving LeetCode & backend-focused questions to stay sharp.
+
+📍 Focus Areas:
+
+Arrays, Strings, Sliding Window, Hashing
+
+Trees, Graphs, Recursion, DP
+
+Backend MCQs + Scenario Questions
+
+🔗 LeetCode:
+https://leetcode.com/siddharth0161820/
+
+💼 I’m open to backend developer roles, collaborations & internships.
+📬 Feel free to reach out anytime!
+
+vbnet
+Copy
+Edit
+
+Let me know if you'd also like the README.md for the cloud-vendor-rest-api project to be merged into this GitHub profile, or kept separate as it is now.
+
+
+
+
+
+
+
+
