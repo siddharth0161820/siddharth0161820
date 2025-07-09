@@ -111,8 +111,7 @@
 - LeetCode for DSA  
 - Practicing scenarios around REST APIs, multithreading, collections, etc.
 
-🔗 [LeetCode Profile](https://leetcode.com/siddharth0161820/)
-🔗[DSA GitHub Repository](https://github.com/siddharth0161820/DSA-Preparation)
+🔗[DSA GitHub Repository]([https://github.com/siddharth0161820/DSA-Preparation](https://github.com/siddharth0161820/java-dsa-backend-sql-practice))
 
 ---
 
