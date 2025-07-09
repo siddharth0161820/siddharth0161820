@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>  
-<h3 align="center">Immediate Joiner | Java Backend Developer | Spring Boot | REST APIs | MySQL | Spring Security | JWT | JUnit | Mockito</h3>
+<h3 align="center">Immediate Joiner | Java Backend Developer | Spring Boot | REST APIs | MySQL | JUnit | Mockito</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
@@ -14,10 +14,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Backend Developer focused on clean architecture, Java, Spring Boot, and building real-world REST APIs.  
-- 🧠 Hands-on experience in scalable, secure REST services with layered architecture, DTOs, validation, exception handling, and JWT-based Spring Security.  
+- 🧠 Hands-on experience in building scalable, secure REST services with layered architecture, DTOs, validation, and exception handling.  
 - 💼 Immediate Joiner eager to contribute to a **company where I can learn, grow, and make meaningful impact**.  
-- 🔄 Passionate about writing maintainable code and solving real-world problems.  
-- 🎯 Seeking impactful Java backend engineering roles.
+- 🔄 Passionate about writing clean, testable, maintainable code.  
+- 🎯 Looking for impactful Java backend engineering opportunities.
 
 ---
 
@@ -43,124 +43,97 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Cloud Vendor REST API (Spring Boot + JWT + Railway)
+### 🔹 Cloud Vendor REST API (Spring Boot + JPA + MySQL)
 
-✅ Full Java backend REST API using layered architecture and JWT security.  
-✅ Live Public Deployment on Railway ⬇️  
+✅ Java backend REST API built using layered architecture  
+✅ Includes DTOs, validation, exception handling, and unit tests  
+✅ Fully tested using Postman (screenshots in GitHub repo)
 
-🔗 Base URL:  
-https://cloud-vendor-rest-api-production.up.railway.app/vendor  
-🔗 Root URL:  
-https://cloud-vendor-rest-api-production.up.railway.app  
+📁 Repo:  
+🔗 [Cloud Vendor REST API](https://github.com/siddharth0161820/cloud-vendor-rest-api)
 
-📷 Screenshot Proof:  
-![Deployment Screenshot](https://github.com/siddharth0161820/cloud-vendor-rest-api/blob/master/Security/deployment-proof.png)
+📮 Sample Endpoints:
+| Method | Endpoint                  | Description               |
+|--------|---------------------------|---------------------------|
+| GET    | `/getAllVendors`          | Get all vendors           |
+| GET    | `/getSingleVendors/{id}`  | Get vendor by ID          |
+| POST   | `/addVendors`             | Add new vendor            |
+| PUT    | `/updateVendors`          | Update vendor             |
+| DELETE | `/deleteVendors/{id}`     | Delete vendor by ID       |
 
-🛠️ Stack: Java 17, Spring Boot 3.2, Spring Security, JWT, JPA, H2 DB, DTO, Validation, Global Exception Handling, JUnit 5, Mockito
+🧪 Stack: Java 21, Spring Boot 3.2, Spring Data JPA, DTO, Validation, MySQL, Exception Handling, JUnit 5, Mockito  
+📸 Postman Proof: Available in repo’s Issues → [Screenshots](https://github.com/siddharth0161820/cloud-vendor-rest-api/issues/1)
 
-📁 Project Structure:
+---
 
-cloud-vendor-rest-api/
-├── Security/
-├── ControllerLayer/ # REST controllers
-├── ServiceLayer/ # Business logic
-├── RepositoryLayer/ # JPA repositories
-├── Entity/ # CloudVendor entity
-├── Jwt/ # JWT filter and util
-├── UserDTO/ # DTO + Validation
-├── SecurityConfig/ # Spring Security config
-├── CutomException/ # Custom response wrapper
-├── GlobalExceptionHandling/ # @ControllerAdvice handler
-├── ServiceLayerImplementationTest.java # Unit Tests
-├── application.properties # Port + DB config
-└── deployment-proof.png # ✅ Screenshot of deployment
+### 🔹 Java Multithreading Interview Prep
 
-bash
-Copy
-Edit
+🧠 Hands-on multithreading practice for Java interviews.
 
-📮 Key Endpoints:
+✔️ Thread creation  
+✔️ Deadlocks  
+✔️ Producer-Consumer  
+✔️ ExecutorService  
+✔️ Volatile keyword & synchronization
 
-| Method | Endpoint                        | Description              |
-|--------|----------------------------------|--------------------------|
-| GET    | /vendor                          | Get all vendors          |
-| GET    | /vendor/getSingleVendors/{id}    | Get vendor by ID         |
-| POST   | /vendor/addVendors               | Add new vendor           |
-| PUT    | /vendor/updateVendors            | Update vendor            |
-| DELETE | /vendor/deleteVendors/{id}       | Delete vendor            |
+🔗 [Repo](https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep)
 
-📝 Sample POST body:
+---
 
-```json
-{
-  "name": "Radha Rani",
-  "username": "radha@example.com",
-  "password": "radha123"
-}
-✅ Tested via Postman
-✅ JWT-based Auth for /auth/login + /auth/register
-✅ DTO + Validation with error message
-✅ Global Exception Handling
-✅ Unit Testing with JUnit + Mockito
+### 🔹 Car Rental System (OOPS + Java Collections)
 
-🔹 Java Multithreading Interview Prep
-🧠 Core multithreading examples for interview prep.
+🚗 Console-based project demonstrating solid OOP skills
 
-Tech Stack: Java SE, Thread, Runnable, ExecutorService, wait/notify
-
-✔️ Thread creation using multiple approaches
-✔️ Deadlock resolution
-✔️ Producer-Consumer
-✔️ ExecutorService & Thread Pools
-✔️ Volatile & Memory consistency
-
-🔗 Repo:
-https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep
-
-🔹 Car Rental System (OOPS + Java Collections)
-🚗 A console-based mini project demonstrating core Java OOPS concepts.
-
-Stack: Core Java, OOPS, Collections
-
-✔️ Classes for Cars, Customers, Rentals
-✔️ Inheritance, Encapsulation, Polymorphism
+✔️ Classes for Cars, Customers, Rentals  
+✔️ Inheritance, Encapsulation, Polymorphism  
 ✔️ Exception handling & abstraction
 
-🔗 Repo:
-https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT
+🔗 [Repo](https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT)
 
-📘 Backend Learning
-Core Java (Exceptions, Collections, Multithreading)
+---
 
-Java 8 (Streams, Lambdas)
+## 📘 Backend Learning Highlights
 
-Spring Boot with layered architecture
+- Core Java (Exceptions, Collections, Multithreading)  
+- Java 8 (Lambdas, Streams)  
+- REST API with Spring Boot  
+- DTO + Bean Validation  
+- Global Exception Handling  
+- JUnit + Mockito  
+- MySQL + H2  
+- Git, Maven, Postman
 
-REST API design + JWT security
+---
 
-DTOs + Bean Validation
+## 💻 DSA & Interview Prep
 
-Exception Handling (Global + Custom)
+- Solving backend-specific interview problems  
+- LeetCode for DSA  
+- Practicing scenarios around REST APIs, multithreading, collections, etc.
 
-JUnit + Mockito testing
+🔗 [LeetCode Profile](https://leetcode.com/siddharth0161820/)
+🔗[DSA GitHub Repository](https://github.com/siddharth0161820/DSA-Preparation)
 
-MySQL + H2 DB
+---
 
-Git, Maven, Postman
+## 💼 I’m Open To
 
-💻 DSA & Backend Problem Solving
-Solving LeetCode + backend-focused interview problems
+- Java Backend Developer Roles (Spring Boot, REST APIs)  
+- Remote or On-site opportunities  
+- Collaborations, internships, and freelance backend projects  
 
-📍 Focus Areas:
+📬 **Feel free to reach out — I’d love to connect!**
 
-Arrays, Strings, Sliding Window, Hashing
+---
 
-Trees, Graphs, Recursion, DP
+🙏 **Thank You**
 
-Backend MCQs + Scenario Questions
+Thank you for taking the time to explore my work.  
+Your time and attention are truly appreciated.  
+Looking forward to meaningful opportunities, learning, and collaboration.  
+Wishing you peace, progress, and purpose in all you do.  
 
-🔗 LeetCode:
-https://leetcode.com/siddharth0161820/
+With gratitude,  
+**Sidharth Kumar**
 
-💼 I’m open to backend developer roles, collaborations & internships.
-📬 Feel free to reach out anytime!
+
