@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>  
-<h3 align="center">Immediate Joiner | Java Backend Developer | Spring Boot | REST APIs | MySQL | JUnit | Mockito</h3>
+<h3 align="center">Immediate Joiner | Java Backend Developer | Spring Boot | REST APIs | MySQL | LLD & System Design | SOLID | Design Patterns</h3>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
@@ -13,12 +14,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Backend Developer focused on clean architecture, Java, Spring Boot, and building real-world REST APIs.  
-- 🧠 Hands-on experience in building scalable, secure REST services with layered architecture, DTOs, validation, and exception handling.  
+- 🎓 Java Backend Developer focused on clean architecture, Spring Boot, REST APIs, and scalable backend systems.  
+- 🧠 Built a complete System Design + Low-Level Design (LLD) GitHub repo with UML Class & Sequence Diagrams, following real interview patterns.  
+- 🧩 Practiced SOLID Principles and Design Patterns (Singleton, Factory, Strategy) using clean Java code with examples.  
+- 💡 Strong grip on layered architecture, DTOs, exception handling, validation, and MySQL.  
+- 🧪 Practicing multithreading, Java 8 (Streams, Lambdas), and test writing (JUnit + Mockito).  
 - 💼 Immediate Joiner eager to contribute to a **company where I can learn, grow, and make meaningful impact**.  
 - 🔄 Passionate about writing clean, testable, maintainable code.  
 - 🎯 Looking for impactful Java backend engineering opportunities.
-
 ---
 
 ## 🔗 Connect with Me
@@ -65,6 +68,29 @@
 📸 Postman Proof: Available in repo’s Issues → [Screenshots](https://github.com/siddharth0161820/cloud-vendor-rest-api/issues/1)
 
 ---
+### 🔹 System Design & LLD — BookMyShow Use Case (Java)
+📘 Structured low-level design repo for interviews
+✅ UML Class & Sequence Diagrams (Book Seat Flow)
+✅ 7-Class Object Model for BookMyShow
+✅ SOLID Principles – With good/bad Java code
+✅ Design Patterns – Singleton, Factory, Strategy
+
+📁 Repo:
+🔗 [System_Design_LLD](https://github.com/siddharth0161820/System_Design_LLD)
+
+🧠 Focus Areas:
+
+SRP-focused object modeling
+
+Interface-driven design
+
+Clean OOP for backend interviews
+
+Reusable across domains (Food, Travel, etc.)
+
+📌 This repo is for LLD practice, not a runnable app — built to crack backend design rounds.
+
+
 
 ### 🔹 Java Multithreading Interview Prep
 
@@ -76,7 +102,7 @@
 ✔️ ExecutorService  
 ✔️ Volatile keyword & synchronization
 
-🔗 [Repo](https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep)
+🔗 [Java Multithreading Interview Prep](https://github.com/siddharth0161820/Java-Multithreading-Interview-Prep)
 
 ---
 
@@ -88,7 +114,7 @@
 ✔️ Inheritance, Encapsulation, Polymorphism  
 ✔️ Exception handling & abstraction
 
-🔗 [Repo](https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT)
+🔗 [Car Rental System](https://github.com/siddharth0161820/CAR-RENTAL-SYSTEM-PROJECT-USING-JAVA-OOPS-CONCEPT)
 
 ---
 
