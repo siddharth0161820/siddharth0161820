@@ -137,7 +137,7 @@ Reusable across domains (Food, Travel, etc.)
 - LeetCode for DSA  
 - Practicing scenarios around REST APIs, multithreading, collections, etc.
 
-🔗[DSA GitHub Repository]([https://github.com/siddharth0161820/DSA-Preparation](https://github.com/siddharth0161820/java-dsa-backend-sql-practice))
+🔗 [DSA GitHub Repository](https://github.com/siddharth0161820/java-dsa-backend-sql-practice)
 
 ---
 
