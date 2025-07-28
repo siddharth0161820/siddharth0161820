@@ -118,26 +118,21 @@ Reusable across domains (Food, Travel, etc.)
 
 ---
 
-## 📘 Backend Learning Highlights
+## 💻 DSA & Interview Prep (With LeetCode Q&A, Java 8, SQL)
 
-- Core Java (Exceptions, Collections, Multithreading)  
-- Java 8 (Lambdas, Streams)  
-- REST API with Spring Boot  
-- DTO + Bean Validation  
-- Global Exception Handling  
-- JUnit + Mockito  
-- MySQL + H2  
-- Git, Maven, Postman
+📚 This is a structured, interview-aligned repo built for product-based companies like SAP Labs, JP Morgan, Meesho, and Atlassian.
 
----
+### 🔹 Includes:
+- ✅ 30+ curated **DSA problems** (Arrays, HashMap, Stack, Heap, LinkedList, Sliding Window, LRU)
+- ✅ All questions have exact **LeetCode links**
+- ✅ **Follow-up interview Q&A** for each (time complexity, design reasoning, optimization)
+- ✅ 10 essential **Java 8 Stream API patterns**
+- ✅ 12 real-world **SQL questions** (window functions, joins, group by, subqueries)
+- ✅ 10 backend-focused DSA/Java problems (Reverse LL, Pair Sum, LRU, First Non-Repeating Char)
 
-## 💻 DSA & Interview Prep
 
-- Solving backend-specific interview problems  
-- LeetCode for DSA  
-- Practicing scenarios around REST APIs, multithreading, collections, etc.
-
-🔗 [DSA GitHub Repository](https://github.com/siddharth0161820/java-dsa-backend-sql-practice)
+📎 View Full Repo →  
+🔗 [DSA + Backend Interview Prep](https://github.com/siddharth0161820/java-dsa-backend-sql-practice)
 
 ---
 
