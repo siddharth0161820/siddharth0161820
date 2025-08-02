@@ -46,14 +46,14 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Cloud Vendor REST API (Spring Boot + JPA + MySQL)
+### 🔹 Cloud Service Provider Management REST API (Spring Boot + JPA + MySQL)
 
 ✅ Java backend REST API built using layered architecture  
 ✅ Includes DTOs, validation, exception handling, and unit tests  
 ✅ Fully tested using Postman (screenshots available)
 
 📁 Repo:  
-🔗 [Cloud Vendor REST API](https://github.com/siddharth0161820/cloud-vendor-rest-api)
+🔗 [Cloud Service Provider Management REST API](https://github.com/siddharth0161820/cloud-service-provider-management-api)
 
 📮 Sample Endpoints:
 
